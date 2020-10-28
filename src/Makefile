@@ -1,6 +1,6 @@
 CPPC = g++
 CPPFLAGS = -std=c++17 -c -Wall -Wextra -Wpedantic -g
-EXE = CR4PP3R
+EXE = l0n3r
 
 all: $(EXE)
 
